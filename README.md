@@ -1,13 +1,6 @@
 # Z-Event
 
-## Acceder à la version en ligne
-
-Pour acceder a la version en ligne de l'application Z-Event, vous devez vous rendre sur : https://z-event-50e72b709bab.herokuapp.com/home/index.php
-
-Vous avez 2 comptes en votre possesions : 
-
-- **Compte Streamer** : user : Streamer, password : 1234
-- **Compte Admin** : user : Admin, password : 1234
+## VERSION LOCAL
 
 ## Tourner en local
 
@@ -29,8 +22,8 @@ Avant de commencer, assurez-vous que vous avez les outils suivants installés su
 Commencez par cloner ce dépôt sur votre machine :
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
+git clone https://github.com/ahmed21bcr/Z-Events
+cd Z-Events
 ```
 Vous devez désormais importez la BDD, avec le fichier ```BDD.sql``` sur PHPMyAdmin.
 Pour cela vous devez vous rendre sur PHPMyAdmin, dans le menu, puis importer un fichier, choisissez le fichier ```BDD.sql``` et prenez l'option utf-8.
