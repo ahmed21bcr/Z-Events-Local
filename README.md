@@ -32,9 +32,7 @@ Vous devez désormais vous retrouvez avec une nouvelle BDD, nommez z-events
 ### 2. Accés au site 
 
 Rendez-vous sur le site avec localhost:????/.../home/index.php,
-Pour accéder au dashboard streamer ou admin, cliquer sur connexion :
+Pour accéder au dashboard streamer ou admin, cliquer sur connexion
 
-- **Compte Streamer** : user : Streamer, password : 1234
-- **Compte Admin** : user : Admin, password : 1234
 
 Vous avez désormais accés au site.
